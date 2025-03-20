@@ -7,3 +7,4 @@ Este projeto foi desenvolvido no âmbito da cadeira de Inteligência Artificial 
   Procura Heurística: Implementação do algoritmo A*, que utiliza uma função heurística para guiar a busca de maneira mais eficiente. A função utilizada foi a soma dos pesos dos contentores fora do sítio.
 
 
+Desenvolvido em colaboração com Gonçalo Rodrigues.
