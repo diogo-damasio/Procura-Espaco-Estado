@@ -8,3 +8,15 @@ Este projeto foi desenvolvido no âmbito da cadeira de Inteligência Artificial 
 
 
 Desenvolvido em colaboração com Gonçalo Rodrigues.
+
+
+
+
+This project was developed as part of the Artificial Intelligence course and implements state-space search algorithms to solve the problem of container movement. The movement of containers is solved using two search algorithms:
+
+Uninformed Search: Implementation of the Uniform Cost Search algorithm, which explores the state space by expanding nodes with the lowest accumulated cost first.
+
+Heuristic Search: Implementation of the A* algorithm, which uses a heuristic function to guide the search more efficiently. The heuristic function used is the sum of the weights of containers that are out of place.
+
+Developed in collaboration with Gonçalo Rodrigues.
+
